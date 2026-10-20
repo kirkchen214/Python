@@ -1,0 +1,4 @@
+# 本地 Python 环境和自动生成的缓存不提交到仓库。
+.venv/
+__pycache__/
+*.py[cod]
