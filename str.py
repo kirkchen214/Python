@@ -23,14 +23,14 @@ print(c)
 su = s.upper()
 print(su)
 
-#upper()转为大写
+#lower()转为小写
 sl = s.lower()
 print(sl)
 
 #split()将字符串按照指定字符串切割-列表
 slist = s.split("-")
 print(slist)
-I
+
 #strip()去除字符串两端的空格
 ss = s.strip()
 print(ss)
